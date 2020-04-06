@@ -2,8 +2,8 @@
 #include <string>
 
 int main(int argc, const char * argv[]) {
-    std::string name; //создаем переменную name типа string 
+    std::string name; //creating variable name type of string
     std::cin>>name;
-    std::cout << "Hello World from"<<name; //выводим Hello world
+    std::cout << "Hello World from"<<name; //get out Hello, world!
     return 0;
 }
