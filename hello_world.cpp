@@ -3,7 +3,7 @@
 
 int main(int argc, const char * argv[]) {
     std::string name; //creating variable name type of string
-    std::cin>>name;
+    std::cin>>name;//read name
     std::cout << "Hello World from"<<name; //get out Hello, world!
     return 0;
 }
